@@ -1,6 +1,6 @@
 <?php
 
-$db = mysqli_connect('localhost','root', '123456','appsalon');
+$db = mysqli_connect('localhost','root', '********','appsalon');
 
 if(!$db){
     echo "Hubo un error";
